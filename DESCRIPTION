@@ -1,0 +1,16 @@
+Package: libRST
+Title: Collection of personal R functions
+Version: 0.0.0.9000
+Authors@R: person("Satoshi", "Takahama", email = "satoshi.takahama@gmail.com", role = c("aut", "cre"))
+Description: This package aggregates together many convenience functions I use.
+Depends:
+    R (>= 3.3.1)
+License: GPLv3
+Encoding: UTF-8
+LazyData: true
+Suggests:
+    chron,
+    ggplot2,
+    gridExtra,
+    gtables
+RoxygenNote: 5.0.1
