@@ -17,4 +17,3 @@ Selected values.
 \description{
 Helper function. Returns values falling within a predetermined interval.
 }
-

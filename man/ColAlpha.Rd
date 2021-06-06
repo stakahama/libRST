@@ -15,4 +15,3 @@ Output of \code{rgb}.
 \description{
 Add alpha transparency to colors.
 }
-

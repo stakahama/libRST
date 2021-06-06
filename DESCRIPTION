@@ -13,4 +13,4 @@ Suggests:
     ggplot2,
     gridExtra,
     gtables
-RoxygenNote: 5.0.1
+RoxygenNote: 7.1.1

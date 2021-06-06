@@ -12,4 +12,3 @@ ggplot theme.
 \description{
 My theme for ggplot.
 }
-

@@ -22,6 +22,7 @@ GGMyTheme <- function() {
     panel.background  = element_rect(fill="white"),
     panel.grid        = element_blank(),
     legend.text       = element_text(size=12),
-    legend.title      = element_text(size=14)
+    legend.title      = element_text(size=14),
+    legend.key        = element_rect(fill=NA)
   )
 }

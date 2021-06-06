@@ -17,4 +17,3 @@ GGMirrorTicks(ggobj, sides = "bltr")
 \description{
 Adds mirrored tickmarks in ggplot panels. Especially when faceting where dup_axis() does not work (otherwise works well for single panel plots). Based on example provided by Sandy Muspratt on Stackoverflow: http://stackoverflow.com/a/29023682/143476.
 }
-

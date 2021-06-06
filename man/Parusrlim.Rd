@@ -15,4 +15,3 @@ User limits for selected side.
 \description{
 Helper function. Returns axis limits.
 }
-

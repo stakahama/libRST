@@ -4,10 +4,20 @@
 \alias{TimeAxis}
 \title{TimeAxis}
 \usage{
-TimeAxis(side = 1, major.interval = 7, minor.interval = 1,
-  format = "\%m/\%d", offset = 0, lim = Parusrlim(side),
-  major.extend = c(-1, 1), labels = TRUE, major.args = NULL,
-  minor.args = NULL, origin = "1970-01-01 00:00:00", ...)
+TimeAxis(
+  side = 1,
+  major.interval = 7,
+  minor.interval = 1,
+  format = "\%m/\%d",
+  offset = 0,
+  lim = Parusrlim(side),
+  major.extend = c(-1, 1),
+  labels = TRUE,
+  major.args = NULL,
+  minor.args = NULL,
+  origin = "1970-01-01 00:00:00",
+  ...
+)
 }
 \arguments{
 \item{...}{passed to \code{par}()}
@@ -18,4 +28,3 @@ Vector of tick positions.
 \description{
 Adds a chron axis.
 }
-

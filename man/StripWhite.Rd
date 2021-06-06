@@ -15,4 +15,3 @@ Character string stripped of white characters.
 \description{
 Strip white characters.
 }
-

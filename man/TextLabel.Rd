@@ -21,4 +21,3 @@ TextLabel(location, ..., yoffset = 0, expansion = 0.1)
 \description{
 Convenience functions for adding letters and labels to figures. Adds padding not provided by \code{text(par("usr")[1], par("usr")[4], ...)}.
 }
-

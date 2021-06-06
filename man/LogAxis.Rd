@@ -4,9 +4,17 @@
 \alias{LogAxis}
 \title{LogAxis}
 \usage{
-LogAxis(side, labels = TRUE, minor = TRUE, decades.only = TRUE,
-  major.labels = labels, minor.labels = FALSE, major.args = NULL,
-  minor.args = NULL, ...)
+LogAxis(
+  side,
+  labels = TRUE,
+  minor = TRUE,
+  decades.only = TRUE,
+  major.labels = labels,
+  minor.labels = FALSE,
+  major.args = NULL,
+  minor.args = NULL,
+  ...
+)
 }
 \arguments{
 \item{side}{1-4}
@@ -33,4 +41,3 @@ List of tick positions and labels.
 \description{
 Logarithmic axis
 }
-

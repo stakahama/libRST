@@ -17,4 +17,3 @@ Character string, same length as \code{string}.
 \description{
 Recursive string substitution.
 }
-

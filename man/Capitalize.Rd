@@ -15,4 +15,3 @@ Capitalized character string.
 \description{
 Capitalize strings.
 }
-

@@ -4,8 +4,15 @@
 \alias{MTitle}
 \title{MTitle}
 \usage{
-MTitle(main = NULL, xlab = NULL, ylab = NULL, ylab2 = NULL,
-  line = NULL, line.frac = 2/5, ...)
+MTitle(
+  main = NULL,
+  xlab = NULL,
+  ylab = NULL,
+  ylab2 = NULL,
+  line = NULL,
+  line.frac = 2/5,
+  ...
+)
 }
 \arguments{
 \item{line.frac}{}
@@ -16,4 +23,3 @@ MTitle(main = NULL, xlab = NULL, ylab = NULL, ylab2 = NULL,
 \description{
 Like \code{title} but places labels in outer margin.
 }
-
